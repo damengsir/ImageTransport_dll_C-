@@ -1,0 +1,10 @@
+D:\MyGit\ImageTransGUI\ImageTransGUI\bin\Debug\ImageTransGUI.exe.config
+D:\MyGit\ImageTransGUI\ImageTransGUI\bin\Debug\ImageTransGUI.exe
+D:\MyGit\ImageTransGUI\ImageTransGUI\bin\Debug\ImageTransGUI.pdb
+D:\MyGit\ImageTransGUI\ImageTransGUI\obj\Debug\ImageTransGUI.csprojAssemblyReference.cache
+D:\MyGit\ImageTransGUI\ImageTransGUI\obj\Debug\ImageTransGUI.Form1.resources
+D:\MyGit\ImageTransGUI\ImageTransGUI\obj\Debug\ImageTransGUI.Properties.Resources.resources
+D:\MyGit\ImageTransGUI\ImageTransGUI\obj\Debug\ImageTransGUI.csproj.GenerateResource.cache
+D:\MyGit\ImageTransGUI\ImageTransGUI\obj\Debug\ImageTransGUI.csproj.CoreCompileInputs.cache
+D:\MyGit\ImageTransGUI\ImageTransGUI\obj\Debug\ImageTransGUI.exe
+D:\MyGit\ImageTransGUI\ImageTransGUI\obj\Debug\ImageTransGUI.pdb
